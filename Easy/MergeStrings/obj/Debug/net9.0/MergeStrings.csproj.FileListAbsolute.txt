@@ -1,0 +1,15 @@
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.AssemblyInfoInputs.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.AssemblyInfo.cs
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.csproj.CoreCompileInputs.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.sourcelink.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\bin\Debug\net9.0\MergeStrings.exe
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\bin\Debug\net9.0\MergeStrings.deps.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\bin\Debug\net9.0\MergeStrings.runtimeconfig.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\bin\Debug\net9.0\MergeStrings.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\bin\Debug\net9.0\MergeStrings.pdb
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\refint\MergeStrings.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.pdb
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\MergeStrings.genruntimeconfig.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStrings\obj\Debug\net9.0\ref\MergeStrings.dll
