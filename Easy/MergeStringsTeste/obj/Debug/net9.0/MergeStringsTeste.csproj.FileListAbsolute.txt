@@ -1,0 +1,15 @@
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\bin\Debug\net9.0\MergeStringsTeste.exe
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\bin\Debug\net9.0\MergeStringsTeste.deps.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\bin\Debug\net9.0\MergeStringsTeste.runtimeconfig.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\bin\Debug\net9.0\MergeStringsTeste.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\bin\Debug\net9.0\MergeStringsTeste.pdb
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.AssemblyInfoInputs.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.AssemblyInfo.cs
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.csproj.CoreCompileInputs.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.sourcelink.json
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\refint\MergeStringsTeste.dll
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.pdb
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\MergeStringsTeste.genruntimeconfig.cache
+C:\Users\RG Informatica\Documents\_Cursos\LeetCode\LeetCode-75\Easy\MergeStringsTeste\obj\Debug\net9.0\ref\MergeStringsTeste.dll

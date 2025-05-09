@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MergeStrings")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MergeStringsTeste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f8755b450135ebf627aeccb834d9ee845c36eb")]
-[assembly: System.Reflection.AssemblyProductAttribute("MergeStrings")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MergeStrings")]
+[assembly: System.Reflection.AssemblyProductAttribute("MergeStringsTeste")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MergeStringsTeste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
