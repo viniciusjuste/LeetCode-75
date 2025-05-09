@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GreatestCommonDivisorStrings")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GreatestCommonDivisorStringsTeste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87d69d13645efa07377b2307cb029c7085baf24")]
-[assembly: System.Reflection.AssemblyProductAttribute("GreatestCommonDivisorStrings")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GreatestCommonDivisorStrings")]
+[assembly: System.Reflection.AssemblyProductAttribute("GreatestCommonDivisorStringsTeste")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GreatestCommonDivisorStringsTeste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
